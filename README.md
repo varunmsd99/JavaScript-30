@@ -1,2 +1,2 @@
 # JavaScript30
-This is a test repository
+This is a 30 day JS challenge repository.
